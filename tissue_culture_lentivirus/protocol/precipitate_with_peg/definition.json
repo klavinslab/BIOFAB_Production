@@ -1,0 +1,1 @@
+{"id": 185, "name": "Precipitate with PEG", "category": "Tissue Culture Lentivirus", "inputs": [{"name": "Lentivirus Harvest", "part": null, "array": null, "routing": "LV"}], "outputs": [{"name": "Precipitated Lentivirus", "part": null, "array": null, "routing": "LV"}], "on_the_fly": null, "user_id": null}

@@ -1,0 +1,1 @@
+{"id": 45, "name": "Fragment Analyzing", "category": "Yeast Trash", "inputs": [{"name": "PCR", "part": true, "array": false, "routing": "YS"}], "outputs": [{"name": "Certificate", "part": false, "array": false, "routing": "YS"}], "on_the_fly": false, "user_id": null}

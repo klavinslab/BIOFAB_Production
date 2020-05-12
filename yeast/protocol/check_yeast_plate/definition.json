@@ -1,0 +1,1 @@
+{"id": 267, "name": "Check Yeast Plate", "category": "Yeast", "inputs": [{"name": "Plate", "part": false, "array": false, "routing": "P"}], "outputs": [{"name": "Plate", "part": false, "array": false, "routing": "P"}], "on_the_fly": false, "user_id": null}
